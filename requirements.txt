@@ -11,6 +11,7 @@ google-api-core==2.25.1
 google-api-python-client==2.181.0
 google-auth==2.40.3
 google-auth-httplib2==0.2.0
+google-genai==0.2.2
 google-generativeai==0.8.5
 googleapis-common-protos==1.70.0
 grpcio==1.74.0
@@ -20,7 +21,7 @@ httplib2==0.30.0
 httptools==0.6.4
 idna==3.10
 numpy==2.2.6
-opencv-python==4.12.0.88
+opencv-python-headless==4.10.0.84
 packaging==25.0
 pandas==2.3.2
 pillow==11.3.0
