@@ -330,6 +330,7 @@ FIELD-BY-FIELD INSTRUCTIONS
 - Use the ACTUAL values (not the legal maximum) if available.
 - Only give hours per month e.g.:"184".
 - If only some units are available, include only those (e.g. "8 hours/day, 40 hours/week").
+- If only these are available (8 hours/day, 40 hours/week), convert them into monthly hours, In this case "160".
 - If no clear contracted hours are given, set to null.
 
 7) average_extra_hours_per_month
